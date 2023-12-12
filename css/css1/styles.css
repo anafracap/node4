@@ -1,0 +1,23 @@
+.header {
+	background-color: #ADD8E6;
+	text-align: center;
+	padding: 50px;
+}
+
+.menu {
+	float: left;
+	text-align: left;
+	position: fixed;
+	width: 200px;
+
+}
+
+.menu > a::after {
+	content: "\a";
+	white-space: pre-wrap;
+	
+}
+
+.main {
+	margin-left: 200px;
+}
