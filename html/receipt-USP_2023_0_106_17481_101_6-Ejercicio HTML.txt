@@ -1,8 +1,0 @@
-La entrega se realizó correctamente.
-Curso: USP_2023_0_106_17481_101_6, 23/24 - 1 SEM - Sistemas Web I - G101 - CTP (Grado en Ingeniería de Sistemas de Información (2023))
-Evaluación: Ejercicio HTML
-
-Fecha de entrega: 30/9/23 19:50
-Tamaño de entrega: undefined
-Remitente: Ana Fraile Caparrós
-Número de confirmación: 60b0955ede28464fa93f4a3ce1c612b4
